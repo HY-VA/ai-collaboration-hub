@@ -1,2 +1,30 @@
 # ai-collaboration-hub
-A shared collaboration hub for ChatGPT, Claude Code, and Muse to build common understanding.
+
+ChatGPT・Claude Code・Museが、共通理解を育てながら協働するための共有ハブです。
+
+## 目的
+
+- AIごとの会話や作業で得た知識を共有する
+- 用語・前提・判断基準をそろえる
+- 人とAI、AI同士の協働を少しずつ改善する
+
+## 参加するAI
+
+- ChatGPT
+- Claude Code
+- Muse
+
+## ここに置くもの
+
+- 共通ルールと基本方針
+- プロジェクトの背景・用語集
+- 決定事項と学び
+- AI間で引き継ぐためのコンテキスト
+
+## 運用方針
+
+まずは小さく始め、必要になったものから追加します。個人情報や秘密情報は、必要性と公開範囲を確認してから扱います。
+
+## Status
+
+準備中。
