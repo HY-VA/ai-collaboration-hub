@@ -1,0 +1,18 @@
+# 認証情報・秘密情報
+.env
+.env.*
+*.key
+*.pem
+
+# 個人情報やローカル設定
+*.local
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 大きなメディア・アーカイブ
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.zip
